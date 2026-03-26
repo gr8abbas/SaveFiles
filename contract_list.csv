@@ -12,13 +12,13 @@ cdba6759-b0d7-4e0d-9070-ffadca5be986_site1,Solar system in Pemba,sites,,cdba6759
 8ce28508-9610-40d9-a1ce-1276405e234d_site1,School no 1,sites,,8ce28508-9610-40d9-a1ce-1276405e234d,,,,
 8ce28508-9610-40d9-a1ce-1276405e234d_site2,school no 2,sites,,8ce28508-9610-40d9-a1ce-1276405e234d,,,,
 8ce28508-9610-40d9-a1ce-1276405e234d_site3,School 3,sites,,8ce28508-9610-40d9-a1ce-1276405e234d,,,,
-handpump,,thematic,,,borehole_drilling water_test water_pump,,,
-wss_solarized,,thematic,,,borehole_drilling water_test water_pump excavation_foundation foundation concrete_structure steel_structure slab water_tank plumbing sanitory solar_steel_structure solar_system solar_electrification,,,
-rural_wss,,thematic,,,borehole_drilling water_test water_pump excavation_foundation foundation concrete_structure steel_structure slab water_tank plumbing sanitory,,,
-rural_sanitation,,thematic,,,roof walls latrine_facility,,,
-wins,,thematic,,,excavation_foundation foundation concrete_structure steel_structure slab wooden_structure plumbing sanitory solar_steel_structure solar_system solar_electrification,,,
-winhcf,,thematic,,,excavation_foundation foundation concrete_structure steel_structure slab roof walls wooden_structure plumbing sanitory solar_steel_structure solar_system solar_electrification cooling_system incinerator_installation,,,
-urban_wss,,thematic,,,borehole_drilling surface_water_source water_test water_pump excavation_foundation foundation concrete_structure steel_structure water_tower ground_reservoir plumbing sanitory solar_steel_structure solar_system solar_electrification,,,
+handpump,,thematic,,,,,,
+wss_solarized,,thematic,,,,,,
+rural_wss,,thematic,,,,,,
+rural_sanitation,,thematic,,,,,,
+wins,,thematic,,,,,,
+winhcf,,thematic,,,,,,
+urban_wss,,thematic,,,,,,
 borehole_drilling,,activity,,,,,bore_match_geo bore_cemet_or bore_blind_screen bore_gravel_quality bore_blind_pipe_ratio bore_litho_sampl bore_gravel_poured bore_grout_cement,bore_hydro_survey bore_bore_develop bore_water_clean bore_yield_test bore_pumping_test bore_fencing
 water_test,,activity,,,,,,water_test_done water_test_pass_govt water_test_pass_who
 solar_system,,activity,,,,,solar_structure solar_steel_quality solar_bolt_specs solar_screws_tight solar_paint_frame,solar_panel_size solar_panel_direction

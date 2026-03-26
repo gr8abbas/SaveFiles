@@ -1,15 +1,15 @@
-name,label,supervision_contractor,
-8c6ba908-7f63-45c9-ad41-a9a0ff1d3321,Handpump sample contract,mozambiquewash,contracts
-fdf2db6f-0037-4d6d-9db1-cd4c744a3879,Urban Water Test,mozambiquewash,contracts
-cdba6759-b0d7-4e0d-9070-ffadca5be986,Solar Powered water system,mozambiquewash,contracts
-8ce28508-9610-40d9-a1ce-1276405e234d,Test schools in Nampula,mozambiquewash,contracts
-,,,
-8c6ba908-7f63-45c9-ad41-a9a0ff1d3321,8c6ba908-7f63-45c9-ad41-a9a0ff1d3321_site1,Handpump 1,sites
-8c6ba908-7f63-45c9-ad41-a9a0ff1d3321,8c6ba908-7f63-45c9-ad41-a9a0ff1d3321_site2,Handpump 2,sites
-8c6ba908-7f63-45c9-ad41-a9a0ff1d3321,8c6ba908-7f63-45c9-ad41-a9a0ff1d3321_site3,Handpump 3,sites
-fdf2db6f-0037-4d6d-9db1-cd4c744a3879,fdf2db6f-0037-4d6d-9db1-cd4c744a3879_site1,UW DWSS 1,sites
-fdf2db6f-0037-4d6d-9db1-cd4c744a3879,fdf2db6f-0037-4d6d-9db1-cd4c744a3879_site2,UW DWSS 2,sites
-cdba6759-b0d7-4e0d-9070-ffadca5be986,cdba6759-b0d7-4e0d-9070-ffadca5be986_site1,Solar system in Pemba,sites
-8ce28508-9610-40d9-a1ce-1276405e234d,8ce28508-9610-40d9-a1ce-1276405e234d_site1,School no 1,sites
-8ce28508-9610-40d9-a1ce-1276405e234d,8ce28508-9610-40d9-a1ce-1276405e234d_site2,school no 2,sites
-8ce28508-9610-40d9-a1ce-1276405e234d,8ce28508-9610-40d9-a1ce-1276405e234d_site3,School 3,sites
+name,label,list,supervision_contractor,contract
+8c6ba908-7f63-45c9-ad41-a9a0ff1d3321,Handpump sample contract,contracts,mozambiquewash,
+fdf2db6f-0037-4d6d-9db1-cd4c744a3879,Urban Water Test,contracts,mozambiquewash,
+cdba6759-b0d7-4e0d-9070-ffadca5be986,Solar Powered water system,contracts,mozambiquewash,
+8ce28508-9610-40d9-a1ce-1276405e234d,Test schools in Nampula,contracts,mozambiquewash,
+8c6ba908-7f63-45c9-ad41-a9a0ff1d3321_site1,Handpump 1,sites,,8c6ba908-7f63-45c9-ad41-a9a0ff1d3321
+8c6ba908-7f63-45c9-ad41-a9a0ff1d3321_site2,Handpump 2,sites,,8c6ba908-7f63-45c9-ad41-a9a0ff1d3321
+8c6ba908-7f63-45c9-ad41-a9a0ff1d3321_site3,Handpump 3,sites,,8c6ba908-7f63-45c9-ad41-a9a0ff1d3321
+fdf2db6f-0037-4d6d-9db1-cd4c744a3879_site1,UW DWSS 1,sites,,fdf2db6f-0037-4d6d-9db1-cd4c744a3879
+fdf2db6f-0037-4d6d-9db1-cd4c744a3879_site2,UW DWSS 2,sites,,fdf2db6f-0037-4d6d-9db1-cd4c744a3879
+cdba6759-b0d7-4e0d-9070-ffadca5be986_site1,Solar system in Pemba,sites,,cdba6759-b0d7-4e0d-9070-ffadca5be986
+8ce28508-9610-40d9-a1ce-1276405e234d_site1,School no 1,sites,,8ce28508-9610-40d9-a1ce-1276405e234d
+8ce28508-9610-40d9-a1ce-1276405e234d_site2,school no 2,sites,,8ce28508-9610-40d9-a1ce-1276405e234d
+8ce28508-9610-40d9-a1ce-1276405e234d_site3,School 3,sites,,8ce28508-9610-40d9-a1ce-1276405e234d
+,,,,8ce28508-9610-40d9-a1ce-1276405e234d

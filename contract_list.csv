@@ -12,34 +12,3 @@ cdba6759-b0d7-4e0d-9070-ffadca5be986_site1,Solar system in Pemba,sites,,cdba6759
 8ce28508-9610-40d9-a1ce-1276405e234d_site1,School no 1,sites,,8ce28508-9610-40d9-a1ce-1276405e234d,,,,
 8ce28508-9610-40d9-a1ce-1276405e234d_site2,school no 2,sites,,8ce28508-9610-40d9-a1ce-1276405e234d,,,,
 8ce28508-9610-40d9-a1ce-1276405e234d_site3,School 3,sites,,8ce28508-9610-40d9-a1ce-1276405e234d,,,,
-handpump,,thematic,,,,,,
-wss_solarized,,thematic,,,,,,
-rural_wss,,thematic,,,,,,
-rural_sanitation,,thematic,,,,,,
-wins,,thematic,,,,,,
-winhcf,,thematic,,,,,,
-urban_wss,,thematic,,,,,,
-borehole_drilling,,activity,,,,,bore_match_geo bore_cemet_or bore_blind_screen bore_gravel_quality bore_blind_pipe_ratio bore_litho_sampl bore_gravel_poured bore_grout_cement,bore_hydro_survey bore_bore_develop bore_water_clean bore_yield_test bore_pumping_test bore_fencing
-water_test,,activity,,,,,,water_test_done water_test_pass_govt water_test_pass_who
-solar_system,,activity,,,,,solar_structure solar_steel_quality solar_bolt_specs solar_screws_tight solar_paint_frame,solar_panel_size solar_panel_direction
-water_pump,,activity,,,,,water_pump_features,water_pump_works water_pump_depth
-solar_electrification,,activity,,,,,wh_elect_cable_string,solar_light_protect solar_earthing solar_sensors solar_cable_mont solar_cable_labelling solar_cable_fix
-excavation_foundation,,activity,,,,,ground_study excavation_approved debris_stored_noharm,
-foundation,,activity,,,,,foundation_dimention foundation_vibration foundation_steel_di foundation_steel_coating,wh_found_waterproofing
-concrete_structure,,activity,,,,,concrete_beam concrete_pilar,concrete_vibration concrete_proper_stirrup
-steel_structure,,activity,,,,,steel_struc_design steel_bead_welds steel_certificate,steel_weld_regular
-slab,,activity,,,,,slab_dim slab_steel slab_water_curing,slab_concret_visual
-water_tank,,activity,,,,,tank_tower_vert tank_uv_stabil tank_ladder_safe,
-plumbing,,activity,,,,,plumbing_material_agreed plumbing_pipes_agreed plumbing_proper_joints,plumbing_hydro_test plumbing_leak_detect plumbing_leak_free plumbing_sand_bedding plumbing_water_drain
-sanitory,,activity,,,,,sanitory_tap_approved,sanitory_good_visual sanitory_tap_secured sanitory_tap_function sanitory_tap_access sanitory_tap_ramp
-roof,,activity,,,,,roof_materal_legal roof_panel_anchor,roof_water_proofing roof_slop
-walls,,activity,,,,,pit_wall_visual pit_wall_material pit_wall_paint,
-latrine_facility,,activity,,,,,,pit_sanitary_test pit_instal_correct
-surface_water_source,,activity,,,,,surf_geo_match surf_no_pollution design_docu_present flood_level_considered protective_screens,hydrological_study concrete_test_done
-electrification,,activity,,,,,elect_asper_design,elect_govt_approved elect_asper_specs elect_light_protected elect_pt_asper_design elect_line_approved
-water_tower,,activity,,,,,tower_location_asper_design vertical_leveled hieght_asper_design tower_volume_assper_design,tower_ladder_catwalk_installed tower_hydr_elements_design
-ground_reservoir,,activity,,,,,reservoir_location_asper_design reservoir_volume_assper_design,reservoir_ladder_catwalk_installed reservoir_hydr_elements_design
-wooden_structure,,activity,,,,,wooden_beam_asper_design wood_bolts_asper_design wood_treatment dry_wood_used,wooden_solid_joints
-solar_steel_structure,,activity,,,,,wh_solar_steel wh_solar_bolts,wh_solar_screwh wh_solar_paint
-cooling_system,,activity,,,,,,cool_elec_tools cool_elec_tests
-incinerator_installation,,activity,,,,,,incinerator_burn_protect incinerator_fuel_safe incinerator_fire_protectsys
